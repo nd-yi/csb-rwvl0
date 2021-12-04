@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://nd-yi.github.io/csb-rwvl0/static/css/main.3957e755.chunk.css",
+    "main.js": "https://nd-yi.github.io/csb-rwvl0/static/js/main.d713b99e.chunk.js",
+    "main.js.map": "https://nd-yi.github.io/csb-rwvl0/static/js/main.d713b99e.chunk.js.map",
+    "runtime-main.js": "https://nd-yi.github.io/csb-rwvl0/static/js/runtime-main.fc715764.js",
+    "runtime-main.js.map": "https://nd-yi.github.io/csb-rwvl0/static/js/runtime-main.fc715764.js.map",
+    "static/js/2.fe6a0bd8.chunk.js": "https://nd-yi.github.io/csb-rwvl0/static/js/2.fe6a0bd8.chunk.js",
+    "static/js/2.fe6a0bd8.chunk.js.map": "https://nd-yi.github.io/csb-rwvl0/static/js/2.fe6a0bd8.chunk.js.map",
+    "index.html": "https://nd-yi.github.io/csb-rwvl0/index.html",
+    "static/css/main.3957e755.chunk.css.map": "https://nd-yi.github.io/csb-rwvl0/static/css/main.3957e755.chunk.css.map",
+    "static/js/2.fe6a0bd8.chunk.js.LICENSE.txt": "https://nd-yi.github.io/csb-rwvl0/static/js/2.fe6a0bd8.chunk.js.LICENSE.txt",
+    "static/media/photo.03b13dc3.png": "https://nd-yi.github.io/csb-rwvl0/static/media/photo.03b13dc3.png",
+    "static/media/related-img-one.35588214.png": "https://nd-yi.github.io/csb-rwvl0/static/media/related-img-one.35588214.png",
+    "static/media/related_img_three.99c299df.png": "https://nd-yi.github.io/csb-rwvl0/static/media/related_img_three.99c299df.png",
+    "static/media/related_two.99ee3e00.png": "https://nd-yi.github.io/csb-rwvl0/static/media/related_two.99ee3e00.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc715764.js",
+    "static/js/2.fe6a0bd8.chunk.js",
+    "static/css/main.3957e755.chunk.css",
+    "static/js/main.d713b99e.chunk.js"
+  ]
+}
